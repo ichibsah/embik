@@ -1,0 +1,16 @@
+@mixin img-in-article {
+	img{
+    @include border-radius;
+    width: 30%;
+    max-width: 130px;
+    float: left;
+    margin-right: 3%;
+  } //img
+}
+
+@mixin keyframes ($args1, $args2){
+	@-webkit-keyframes $args1 {
+	0% { width:0%; }
+	100% { width: $args2; }
+	}
+}

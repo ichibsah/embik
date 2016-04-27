@@ -1,0 +1,24 @@
+<svg width="441.928" height="139.358" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g display="inline">
+  <title>dots</title>
+  <circle id="svg_40" r="13.727" cy="21.105" cx="354.555" fill="#DC322E"/>
+  <circle id="svg_41" r="13.727" cy="21.105" cx="385.828" fill="#D9BC2B"/>
+  <circle id="svg_42" r="13.727" cy="21.105" cx="417.102" fill="#6C71C4"/>
+  <circle id="svg_43" r="13.727" cy="51.105" cx="354.555" fill="#D33682"/>
+  <circle id="svg_44" r="13.727" cy="51.105" cx="385.828" fill="#B58900"/>
+  <circle id="svg_45" r="13.727" cy="51.105" cx="417.102" fill="#475B62"/>
+  <circle id="svg_46" r="13.727" cy="81.105" cx="354.555" fill="#063642"/>
+  <circle id="svg_47" r="13.727" cy="81.105" cx="385.828" fill="#B39664"/>
+  <circle id="svg_48" r="13.727" cy="81.105" cx="417.102" fill="#859900"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_51" y="54.679001" x="130.071991" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" stroke="null" fill="#7f7f7f"/>
+ </g>
+ <g display="inline">
+  <title>embik</title>
+  <text font-weight="bold" transform="matrix(1.8323923366040855,0,0,3.0468045764957803,9.026169326333457,-16.92088765868949) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_49" y="30.679001" x="90.071991" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" stroke="null" fill="#d9bc2b">EMBIK FARMS</text>
+ </g>
+ <g display="inline">
+  <title>sub-title</title>
+  <text font-weight="bold" transform="matrix(1.0300946078450417,0,0,1.187408447265625,21.24980386320211,-18.491942882537842) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_50" y="122.679001" x="191.071991" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" stroke="null" fill="#93A1A1">The Centre for Vocational Agriculture</text>
+ </g>
+</svg>
